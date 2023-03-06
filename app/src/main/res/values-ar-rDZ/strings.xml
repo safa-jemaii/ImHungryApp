@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">التطبيق أنا جائع</string>
+    <string name="google_map_key" translatable="false">AIzaSyARKYFxOOVGC59Du8k6ATS2t48826Qpm2g</string>
+
+    <string name="findnearbyrestaurants">البحث عن المطاعم القريبة</string>
+
+    <string name="find">يجد</string>
+    <string name="changelanguage">تغيير اللغة</string>
+    <string name="restaurants">مطاعم</string>
+
+    <string name="bank">بنك</string>
+    </resources>
+
+
+
+
+

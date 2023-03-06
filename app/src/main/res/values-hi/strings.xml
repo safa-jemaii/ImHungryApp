@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">मैं भूखा ऐप हूं</string>
+    <string name="google_map_key" translatable="false">AIzaSyARKYFxOOVGC59Du8k6ATS2t48826Qpm2g</string>
+
+
+    <string name="findnearbyrestaurants">ट्रौवर लेस रेस्तरां एक निकटता</string>
+
+    <string name="find">पाना</string>
+    <string name="changelanguage">भाषा बदलें</string>
+    <string name="restaurants">रेस्टोरेंट</string>
+
+    <string name="bank">किनारा</string>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="google_map_key" translatable="false">AIzaSyARKYFxOOVGC59Du8k6ATS2t48826Qpm2g</string>
+
+    <string name="app_name">imhungryapp</string>
+
+    <string name="findnearbyrestaurants">find nearby restaurants</string>
+
+    <string name="find">Find</string>
+    <string name="changelanguage">Change Language</string>
+    <string name="restaurants">restaurants</string>
+
+    <string name="bank">Bank</string>
+
+
+
+
+
+</resources>

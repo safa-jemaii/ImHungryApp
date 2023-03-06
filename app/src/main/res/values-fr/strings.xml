@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">jai faim app</string>
+
+    <string name="google_map_key" translatable="false">AIzaSyARKYFxOOVGC59Du8k6ATS2t48826Qpm2g</string>
+
+
+    <string name="findnearbyrestaurants" >trouver les restaurants à proximité</string>
+
+    <string name="find" translatable="true">chercher</string>
+    <string name="changelanguage">Changer la  Langue</string>
+    <string name="restaurants">restaurants</string>
+
+    <string name="bank">bank</string>
+</resources>
