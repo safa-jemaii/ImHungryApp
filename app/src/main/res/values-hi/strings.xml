@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">मैं भूखा ऐप हूं</string>
-    <string name="google_map_key" translatable="false">AIzaSyARKYFxOOVGC59Du8k6ATS2t48826Qpm2g</string>
+    <string name="google_map_key" translatable="false">AIzaSyARKYFxOOVGC59Du8k6ATS2t48826Qpm2g3.
+</string>
 
 
     <string name="findnearbyrestaurants">ट्रौवर लेस रेस्तरां एक निकटता</string>
@@ -11,4 +12,10 @@
     <string name="restaurants">रेस्टोरेंट</string>
 
     <string name="bank">किनारा</string>
+    <string name="restaurantDestination">रेस्तरां गंतव्य</string>
+    <string name="TunisiaJedaidanandRades">ट्यूनीशिया, जेडैदा\n और रैड्स</string>
+    <string name="chooseyourdestinationtoyournearbyrestaurant">अपने आस-पास के रेस्तरां के लिए अपना गंतव्य चुनें"</string>
+
+
+
 </resources>

@@ -10,7 +10,13 @@
     <string name="restaurants">مطاعم</string>
 
     <string name="bank">بنك</string>
-    </resources>
+    <string name="restaurantDestination">وجهة المطعم</string>
+    <string name="TunisiaJedaidanandRades">تونس ، الجديدة \ n ورادس</string>
+    <string name="chooseyourdestinationtoyournearbyrestaurant">اختر وجهتك إلى مطعمك القريب </string>
+
+
+
+</resources>
 
 
 
